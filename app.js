@@ -18,7 +18,7 @@ import Product from "./models/Product.js";
 
 import multer from "multer";
 import express from "express";
-import cors from "cors";
+import cors from "cors";    
 import fs from "fs";
 
 
